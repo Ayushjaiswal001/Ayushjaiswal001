@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://ayushjaiswal-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ayushjaiswal--dev-0A0A0A?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio"/></a>
   <a href="mailto:ayushjaiswal1204@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ayushjaiswal1204/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/Ayushjaiswal001"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=Ayushjaiswal001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
@@ -78,6 +79,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ayushjaiswal1204/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://ayushjaiswal-dev.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=netlify&logoColor=00C7B7"/></a>
   <a href="mailto:ayushjaiswal1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
