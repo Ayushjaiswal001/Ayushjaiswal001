@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 First-year **B.E. Computer Science** student at **Sir M. Visvesvaraya Institute of Technology**, Bangalore (Class of 2028, CGPA **8.2**)
+- 🎓 Third-year **B.E. Computer Science** student at **Sir M. Visvesvaraya Institute of Technology**, Bangalore (Class of 2028, CGPA **8.2**)
 - 🛠️ I build **production-grade full-stack and AI products** — SaaS tools, GitHub Apps, Telegram AI agents, and algorithm visualizers
 - 🤖 Especially into **LLM-powered agents** (LangGraph multi-agent systems), **developer tooling**, and clean **TypeScript / Python** backends
 - 💼 **Open to Software Engineering internships** — I learn fast, ship end-to-end, and care about real users
